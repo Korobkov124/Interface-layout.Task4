@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-08T19:00:40.528Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.2470 YaBrowser/23.11.0.2470 Yowser/2.5 Safari/537.36" etag="rzIGPGsbIMIbHg1isMxJ" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-08T19:11:57.959Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.2470 YaBrowser/23.11.0.2470 Yowser/2.5 Safari/537.36" etag="SCsmn1b2cPPgbhatoTqT" version="22.1.7" type="github">
   <diagram name="Страница — 1" id="CdA517lCgwH01hD9kOPD">
     <mxGraphModel dx="1661" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -65,7 +65,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="J9RWOJ7TWWffCbHVTTw_-18" value="Редактировать список путевок" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="493" width="140" height="210" as="geometry" />
+          <mxGeometry x="1010" y="493" width="140" height="240" as="geometry" />
         </mxCell>
         <mxCell id="J9RWOJ7TWWffCbHVTTw_-19" value="-Добавить путевку" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="J9RWOJ7TWWffCbHVTTw_-18">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -79,11 +79,14 @@
         <mxCell id="J9RWOJ7TWWffCbHVTTw_-25" value="-Принять изменения" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="J9RWOJ7TWWffCbHVTTw_-18">
           <mxGeometry y="120" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="J9RWOJ7TWWffCbHVTTw_-24" value="-Подтвердить изменения" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="J9RWOJ7TWWffCbHVTTw_-18">
+        <mxCell id="J9RWOJ7TWWffCbHVTTw_-45" value="-Таблица списка путевок" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="J9RWOJ7TWWffCbHVTTw_-18">
           <mxGeometry y="150" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="J9RWOJ7TWWffCbHVTTw_-22" value="-Выйти" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="J9RWOJ7TWWffCbHVTTw_-18">
+        <mxCell id="J9RWOJ7TWWffCbHVTTw_-24" value="-Подтвердить изменения" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="J9RWOJ7TWWffCbHVTTw_-18">
           <mxGeometry y="180" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J9RWOJ7TWWffCbHVTTw_-22" value="-Выйти" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="J9RWOJ7TWWffCbHVTTw_-18">
+          <mxGeometry y="210" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J9RWOJ7TWWffCbHVTTw_-21" value="Нажата кнопка&lt;br&gt;-Редактировать список путевок" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="740" y="493" width="200" height="40" as="geometry" />
