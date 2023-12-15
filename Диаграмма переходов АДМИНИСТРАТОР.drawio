@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-08T19:12:37.170Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.2470 YaBrowser/23.11.0.2470 Yowser/2.5 Safari/537.36" etag="uuEeqafiV3iElYMVRl0Z" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-15T15:41:02.632Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.731 YaBrowser/23.11.1.731 Yowser/2.5 Safari/537.36" etag="v0hOYPtyMWhcTLYiCR6K" version="22.1.11" type="github">
   <diagram name="Страница — 1" id="fyIkv1xnR3t7DIkPMojp">
-    <mxGraphModel dx="2906" dy="1161" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2422" dy="968" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12,7 +12,7 @@
             <mxPoint x="138" y="525" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q-TupP9y3MPQKgEqneRt-3" value="Авторизация" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Q-TupP9y3MPQKgEqneRt-3" value="Окно_авторизации" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="140" y="480" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Q-TupP9y3MPQKgEqneRt-4" value="-Авторизовать пользователя" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="Q-TupP9y3MPQKgEqneRt-3" vertex="1">
@@ -21,7 +21,7 @@
         <mxCell id="Q-TupP9y3MPQKgEqneRt-5" value="-Регистрация" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="Q-TupP9y3MPQKgEqneRt-3" vertex="1">
           <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Q-TupP9y3MPQKgEqneRt-6" value="Меню выбора действий сотрудника" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Q-TupP9y3MPQKgEqneRt-6" value="Окно_выбора_&lt;br&gt;действий_админ" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="530" y="480" width="140" height="230" as="geometry" />
         </mxCell>
         <mxCell id="Q-TupP9y3MPQKgEqneRt-7" value="-Редактировать список путевок" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="Q-TupP9y3MPQKgEqneRt-6" vertex="1">
@@ -67,7 +67,7 @@
             <mxPoint x="870" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q-TupP9y3MPQKgEqneRt-16" value="Редактировать список путевок" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Q-TupP9y3MPQKgEqneRt-16" value="Окно_редактирования&lt;br&gt;списка_путевок" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1010" y="493" width="140" height="240" as="geometry" />
         </mxCell>
         <mxCell id="Q-TupP9y3MPQKgEqneRt-17" value="-Добавить путевку" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="Q-TupP9y3MPQKgEqneRt-16" vertex="1">
@@ -125,7 +125,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q-TupP9y3MPQKgEqneRt-29" value="Список клиентов" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Q-TupP9y3MPQKgEqneRt-29" value="Окно_списка_клиентов" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="530" y="850" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Q-TupP9y3MPQKgEqneRt-30" value="-Таблица списка клиентов" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="Q-TupP9y3MPQKgEqneRt-29" vertex="1">
@@ -146,8 +146,8 @@
         <mxCell id="Q-TupP9y3MPQKgEqneRt-34" value="Нажата кнопка&amp;nbsp;&lt;br&gt;-Выйти" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="460" y="733" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Q-TupP9y3MPQKgEqneRt-35" value="История покупок заданного клиента" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="530" y="230" width="140" height="120" as="geometry" />
+        <mxCell id="Q-TupP9y3MPQKgEqneRt-35" value="Окно_просмотра_истории&lt;br&gt;покупок_заданного_&lt;br&gt;клиента" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="190" width="140" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Q-TupP9y3MPQKgEqneRt-36" value="-Поиск клиента" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="Q-TupP9y3MPQKgEqneRt-35" vertex="1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -176,7 +176,7 @@
         <mxCell id="Q-TupP9y3MPQKgEqneRt-42" value="Нажата кнопка&amp;nbsp;&lt;br&gt;-Выйти" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="450" y="353" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Q-TupP9y3MPQKgEqneRt-44" value="Редактировать список сотрудников" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Q-TupP9y3MPQKgEqneRt-44" value="Окно_редактирования_&lt;br&gt;сотрудников" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="940" y="850" width="140" height="230" as="geometry" />
         </mxCell>
         <mxCell id="Q-TupP9y3MPQKgEqneRt-45" value="-Таблица списка сотрудников" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="Q-TupP9y3MPQKgEqneRt-44" vertex="1">
